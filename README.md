@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @swishswisher
 - 👀 I’m a web developer who's interested in all things tech.
-- 🌱 I’m currently learning c# and Python.
+- 🌱 Currently building AI tools for everyday use.
