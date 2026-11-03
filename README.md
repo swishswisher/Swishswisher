@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @swishswisher
-- 👀 I’m a web developer who's interested in all things tech.
+- 👀 I’m a programmer interested in all things tech.
 - 🌱 Currently building AI tools for everyday use.
